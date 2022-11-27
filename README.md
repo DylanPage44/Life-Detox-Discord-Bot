@@ -11,5 +11,5 @@ Deactivates the bot.
 
 Open the LifeDetox.py file to get the code for the bot. 
 Warning! Many of the examples that I had to feed the Cohere machine learning algorithm are 
-extremely innapropriate, as this bot is intended to moderate Discord chats. 
+extremely inappropriate, as this bot is intended to moderate Discord chats. 
 Proceed with caution. You have been warned. 
